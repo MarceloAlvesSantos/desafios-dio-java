@@ -24,6 +24,8 @@ public static void main(String[] args) throws IOException {
   double total = n1 * valor1 + n2 * valor2;
   System.out.println(String.format("VALOR A PAGAR: R$ %.2f", total)); 
   leitor.close();
+//Apenas para utilizar os cod1 e cod2 e sair os avisos.
+  System.out.println("\n\nCod1 = " + cod1 + "\nCod2 = " + cod2 );
  }
 	
 }
