@@ -1,4 +1,4 @@
-package desafio.java2;
+package desafioSegundo;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package desafio.java2;
+package desafioSegundo;
 
 
 // Abaixo segue um exemplo de código que você pode ou não utilizar
